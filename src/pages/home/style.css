@@ -32,7 +32,7 @@ section {
 
 .intro_sec {
     height: calc(100vh - 60px);
-    min-height: 700px;
+    min-height: 300px;
     height: 100vh;
     margin-top: -60px;
 }
@@ -177,7 +177,7 @@ section {
 }
 
 .intro_sec .h_bg-image .block {
-    bottom: 50vh;
+    bottom: 20vh;
     max-width: 220px;
     padding: 30px;
     left: -110px;
@@ -197,7 +197,7 @@ section {
 @media (max-width:991.98px) {
     .intro_sec .h_bg-image {
         height: 600px;
-        min-height: 75vh;
+        min-height: 20vh;
         margin-bottom: 30px;
     }
     .intro_sec .h_bg-image .block {
