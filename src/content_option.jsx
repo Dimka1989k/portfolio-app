@@ -41,6 +41,11 @@ const dataabout = {
 };
 const worktimeline = [
   {
+    jobtitle: "EPAM Systems (Internship)",
+    where: "HTML, CSS, SCSS, JavaScript, Typescript ",
+    date: "February 2025 – May 2025",
+  },
+  {
     jobtitle: "Onix-Systems (Builder.ai)",
     where: "JavaScript, TypeScript, React, Material UI, Jest, Enzyme",
     date: "August 2024 – December 2024",
@@ -81,7 +86,7 @@ const skills = [
     value: 190,
   },
   {
-    name: "TyppeScript",
+    name: "TypeScript",
     value: 180,
   },
   {
