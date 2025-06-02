@@ -25,7 +25,7 @@ const meta = {
 const introdata = {
   title: "I’m Kyselov Dmytro",
   animated: {
-    first: "Frontend Developer",
+    first: "Front-End Developer",
     second: "I love coding",
     third: "I code cool websites"
   },
@@ -37,7 +37,7 @@ const introdata = {
 const dataabout = {
   title: "About my self",
   aboutme:
-    "Motivated Frontend Developer with experience in building dynamic web applications using JavaScript, React and Redux. Skilled in performance optimization, feature implementation, and effective collaboration with remote teams. Looking to contribute to innovative projects focused on efficiency and user experience.",
+    "Motivated Frontend Developer with experience in building dynamic web applications using JavaScript, React and Redux. Skilled in performance optimization, feature implementation, and effective collaboration with remote teams. Looking to contribute to innovative projects focused on efficiency and user experience. Open to relocation to other cities or countries.",
 };
 const worktimeline = [
   {
@@ -79,6 +79,10 @@ const skills = [
   },
   {
     name: "CSS",
+    value: 100,
+  },
+  {
+    name: "SCSS",
     value: 100,
   },
   {
