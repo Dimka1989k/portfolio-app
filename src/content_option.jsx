@@ -14,6 +14,8 @@ import image11 from "./images/hounter.png";
 import image12 from "./images/HomeProject.png";
 import image13 from "./images/Post.png";
 import image14 from "./images/GOHOME.png";
+import image15 from "./images/strazen.png";
+import  image16 from './images/casino.png';
 
 const logotext = "D.K";
 const meta = {
@@ -119,7 +121,7 @@ const services = [
   },
  ];
 
-const dataportfolio = [
+const dataportfolio = [ 
   {
     img: image1,   
     description:
@@ -219,6 +221,21 @@ const dataportfolio = [
     link: "https://dimka1989k.github.io/gohome-vue-project/",
      tech: "[Vue.js, Vuex, SCSS]",
   },
+   {
+    img: image15,   
+    description:
+      "An online platform providing expert consultations and real-time chat support. ",
+    link: "https://dapper-bonbon-cab8c0.netlify.app/",
+    tech: "[React, CSS, Node.js, Express.js, OAuth-2 google, Stripe, Websoket.io]",
+  },
+    {
+    img: image16,
+    description:
+      "Simple casino game",
+    link: "https://dimka1989k.github.io/bass-splash/",
+     tech: "[React, CSS]",
+  }
+  
  ];
 
 const contactConfig = {
