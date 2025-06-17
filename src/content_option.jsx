@@ -116,7 +116,7 @@ const services = [
      description: "Master's degree in Public Administration | July 2013 - February 2016", 
   },
    {
-    title: "National Academy of Public Administration under the President of Ukraine - Master's degree in Public Administration | July 2013 - February 2016",
+    title: "The Kirovohrad Branch of Kharkiv National University of Internal Affairs",
   description: "Specialist in Criminal Law | June  2006 - July 2010", 
   },
  ];
