@@ -15,7 +15,8 @@ import image12 from "./images/HomeProject.png";
 import image13 from "./images/Post.png";
 import image14 from "./images/GOHOME.png";
 import image15 from "./images/strazen.png";
-import  image16 from './images/casino.png';
+import image16 from './images/casino.png';
+import image17 from './images/Roll.png';
 
 const logotext = "D.K";
 const meta = {
@@ -234,6 +235,13 @@ const dataportfolio = [
       "Simple casino game",
     link: "https://dimka1989k.github.io/bass-splash/",
      tech: "[React, CSS]",
+  },
+   {
+    img: image17,
+    description:
+      "Simple dice game",
+    link: "https://dimka1989k.github.io/dice-app/",
+     tech: "[React, Tailwind CSS]",
   }
   
  ];
