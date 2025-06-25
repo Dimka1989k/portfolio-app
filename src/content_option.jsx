@@ -123,13 +123,28 @@ const services = [
  ];
 
 const dataportfolio = [ 
-  {
-    img: image1,   
+   {
+    img: image15,   
     description:
-      "The application for searching countries.",
-    link: "https://dimka1989k.github.io/goit-js-hw-10/",
-    tech: "[HTML, CSS, JS]",
+      "An online platform providing expert consultations and real-time chat support. ",
+    link: "https://dapper-bonbon-cab8c0.netlify.app/",
+    tech: "[React, CSS, Node.js, Express.js, OAuth-2 google, Stripe, Websoket.io]",
   },
+    {
+    img: image16,
+    description:
+      "Simple casino game",
+    link: "https://dimka1989k.github.io/bass-splash/",
+     tech: "[React, CSS]",
+  },
+   {
+    img: image17,
+    description:
+      "Simple dice game",
+    link: "https://dimka1989k.github.io/dice-app/",
+     tech: "[React, Tailwind CSS]",
+  },
+ 
   {
     img: image2,
     description:
@@ -222,27 +237,14 @@ const dataportfolio = [
     link: "https://dimka1989k.github.io/gohome-vue-project/",
      tech: "[Vue.js, Vuex, SCSS]",
   },
+  
    {
-    img: image15,   
+    img: image1,   
     description:
-      "An online platform providing expert consultations and real-time chat support. ",
-    link: "https://dapper-bonbon-cab8c0.netlify.app/",
-    tech: "[React, CSS, Node.js, Express.js, OAuth-2 google, Stripe, Websoket.io]",
+      "The application for searching countries.",
+    link: "https://dimka1989k.github.io/goit-js-hw-10/",
+    tech: "[HTML, CSS, JS]",
   },
-    {
-    img: image16,
-    description:
-      "Simple casino game",
-    link: "https://dimka1989k.github.io/bass-splash/",
-     tech: "[React, CSS]",
-  },
-   {
-    img: image17,
-    description:
-      "Simple dice game",
-    link: "https://dimka1989k.github.io/dice-app/",
-     tech: "[React, Tailwind CSS]",
-  }
   
  ];
 
