@@ -17,6 +17,9 @@ import image14 from "./images/GOHOME.png";
 import image15 from "./images/strazen.png";
 import image16 from './images/casino.png';
 import image17 from './images/Roll.png';
+import image18 from './images/audiofile.png';
+import image19 from './images/bookContacts.png';
+
 
 const logotext = "D.K";
 const meta = {
@@ -143,6 +146,20 @@ const dataportfolio = [
       "Simple dice game",
     link: "https://dimka1989k.github.io/dice-app/",
      tech: "[React, Tailwind CSS]",
+  },
+   {
+    img: image18,
+    description:
+      "Simple transcriber-audiofile",
+    link: "https://transcriber-audiofile.vercel.app/",
+     tech: "[Next, Shadsn, Clerk, Stripe, Prisma, Openai, PostgreSQL, ]",
+  },
+   {
+    img: image19,
+    description:
+      "Simple book contact",
+    link: "https://book-contact.vercel.app/contacts",
+     tech: "[Next, Shadsn, React-Hook-Form]",
   },
  
   {
