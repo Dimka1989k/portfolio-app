@@ -19,6 +19,7 @@ import image16 from './images/casino.png';
 import image17 from './images/Roll.png';
 import image18 from './images/audiofile.png';
 import image19 from './images/bookContacts.png';
+import image20 from './images/vehicle.jpg';
 
 
 const logotext = "D.K";
@@ -146,6 +147,13 @@ const dataportfolio = [
       "Simple dice game",
     link: "https://dimka1989k.github.io/dice-app/",
      tech: "[React, Tailwind CSS]",
+  },
+  {
+    img: image20,
+    description:
+      "Simple Car Dealer App",
+    link: "https://vehicles-phi.vercel.app/",
+     tech: "[Next]",
   },
    {
     img: image18,
