@@ -20,7 +20,7 @@ import image17 from './images/Roll.png';
 import image18 from './images/audiofile.png';
 import image19 from './images/bookContacts.png';
 import image20 from './images/vehicle.jpg';
-
+import image21 from './images/news.jpg';
 
 const logotext = "D.K";
 const meta = {
@@ -127,6 +127,13 @@ const services = [
  ];
 
 const dataportfolio = [ 
+   {
+    img: image21,   
+    description:
+      "News App. ",
+    link: "https://dimka1989k.github.io/news-bootstrap/",
+    tech: "[React, Bootstrap]",
+  },
    {
     img: image15,   
     description:
